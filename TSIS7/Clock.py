@@ -9,9 +9,9 @@ y = height // 2
 white = (255, 255, 255)
 sc = pygame.display.set_mode((width, height))
 
-mickey = pygame.image.load("main-clock.png")
-leftHand = pygame.image.load("left-hand.png")
-rightHand = pygame.image.load("right-hand.png")
+mickey = pygame.image.load("images_game/WhatsApp Image 2023-03-19 at 22.07.38.jpeg")
+leftHand = pygame.image.load("images_game/right-hand.png")
+rightHand = pygame.image.load("images_game/right-hand.png")
 mickeyRect = mickey.get_rect()
 
 
